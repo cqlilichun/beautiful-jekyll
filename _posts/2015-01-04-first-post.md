@@ -5,4 +5,4 @@ image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
-This is my first post, how exciting!
+这是春哥的第一个测试博客
