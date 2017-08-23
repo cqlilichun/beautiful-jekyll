@@ -23,12 +23,12 @@ description: 了解俺以及俺的学习、分享内容从这里开始
 
 # List of links in the navigation bar
 navbar-links:
-  关于我: "aboutme"
+  博客: "/_posts/"
   资源:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - 学习 markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  首页: "https://cqlilichun.github.com"
+  关于我: "aboutme"
+  首页: "https://cqlilichun.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
